@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    width: 50%;
+    margin: 10px auto;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.one{background-color: #5a77b8; color: black;}
+.two{background-color:  #e8eaf5; color: black;}
+.tre{background-color:  #cdd2e4; color: black;}
+.fo{background-color: #e8eaf5; color: black;}
+.si{background-color:  #cdd2e4; color: black;}
